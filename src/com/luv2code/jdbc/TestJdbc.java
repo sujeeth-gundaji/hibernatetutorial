@@ -15,7 +15,9 @@ public class TestJdbc {
 		String jdbcUrl = "jdbc:mysql://localhost:3306/database";
 		String user = "root";
 		String pass = "mysql";
-
+// This is my third commit
+		// this is my fourth commit
+		
 		try {
 			System.out.println("Connecting to database:" + jdbcUrl);
 			Connection myconn = DriverManager
