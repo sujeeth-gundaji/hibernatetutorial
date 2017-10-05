@@ -7,7 +7,11 @@ public class TestJdbc {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-
+		
+        // This is my second commit
+		
+		// this is shown when i do commit
+		
 		String jdbcUrl = "jdbc:mysql://localhost:3306/database";
 		String user = "root";
 		String pass = "mysql";
